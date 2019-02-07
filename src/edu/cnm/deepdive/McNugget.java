@@ -33,6 +33,6 @@ public class McNugget {
     for (int i = 1; i <= limit; i++) {
       System.out.printf("%d: %b%n", i, test(i));
     }
-    System.out.println("test(value)");
+    System.out.println("testSimple(value)");
   }
 }
